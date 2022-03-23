@@ -23,7 +23,13 @@ Run the `deploySlashCommands.js` File with Node: `node deploySlashCommands.js`
 WARNING: Slash Commands sometimes need up to **1 Hour** to get an Update, please be patient.
 
 
+
+
+
 Run the Bot with `start.bat` or `node index.js`
+
+
+
 
 
 
