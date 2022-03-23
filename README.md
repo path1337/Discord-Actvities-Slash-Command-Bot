@@ -1,5 +1,5 @@
 # Discord-Actvities-Slash-Command-Bot
-A simple Discord Bot which starts Activities in Channel with one Slash Command.
+A simple Discord Bot which starts Activities in a Voice Channel with one Slash Command.
 
 Start a Voice Activity with one Command
 
