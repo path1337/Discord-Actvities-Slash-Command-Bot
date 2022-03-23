@@ -20,7 +20,7 @@ Run the `deploySlashCommands.js` File with Node: `node deploySlashCommands.js`
 ![image](https://user-images.githubusercontent.com/83754157/159768691-1d1eb855-796d-4192-a080-af25ad2d0550.png)
 
 
-WARNING: Slash Commands sometimes need up to 1 Hour to get an Update, please be patient.
+WARNING: Slash Commands sometimes need up to **1 Hour** to get an Update, please be patient.
 
 
 Run the Bot with `start.bat` or `node index.js` Command
