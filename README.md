@@ -23,16 +23,13 @@ Run the `deploySlashCommands.js` File with Node: `node deploySlashCommands.js`
 WARNING: Slash Commands sometimes need up to **1 Hour** to get an Update, please be patient.
 
 
-
-
+# START THE BOT
 
 Run the Bot with `start.bat` or `node index.js`
 
 
 
-
-
-
+# OTHER
 If you like it, consider to try out my current Project: [Mexy](https://discord.com/api/oauth2/authorize?client_id=891686988208558160&permissions=66447424&scope=bot%20applications.commands) `A High Quality Discord Music Bot`
 
 
