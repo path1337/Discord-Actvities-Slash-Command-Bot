@@ -15,6 +15,8 @@ Put your Discord Bot Token in `./botconfig/config.json`
 
 # DEPLOY SLASH COMMANDS
 
+Install Packages with: `npm i`
+
 Run the `deploySlashCommands.js` File with Node: `node deploySlashCommands.js`
 
 ![image](https://user-images.githubusercontent.com/83754157/159768691-1d1eb855-796d-4192-a080-af25ad2d0550.png)
