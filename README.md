@@ -27,4 +27,7 @@ Run the Bot with `start.bat` or `node index.js`
 
 
 
+If you like it, consider to try out my current Project: [Mexy](https://discord.com/api/oauth2/authorize?client_id=891686988208558160&permissions=66447424&scope=bot%20applications.commands) `A High Quality Discord Music Bot`
+
+
 
